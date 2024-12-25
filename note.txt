@@ -309,4 +309,9 @@ c a t s
 
 63.
 http://www.deathball.net/notpron/love/cats.htm
+Write all note(ABCDEFG) pairs AA->a AB->b AC-c... DE->z
+And transcribe the notes to text
+the answer is popular
 
+64.
+http://www.deathball.net/notpron/love/popular.htm 
